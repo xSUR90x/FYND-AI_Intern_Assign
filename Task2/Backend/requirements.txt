@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask-cors
+gunicorn
+langchain-google-genai
+langchain-core
+langchain
+google-genai
+pandas
+numpy
+python-dotenv

@@ -1,4 +1,4 @@
-#Yelp Rating Prediction Using LLM Prompting
+#Yelp Rating Prediction Using LLM Prompting:
 This project implements LLM-based rating prediction for Yelp reviews using different prompting strategies.
 The goal is to classify each review into 1–5 stars and return strict JSON output
 
